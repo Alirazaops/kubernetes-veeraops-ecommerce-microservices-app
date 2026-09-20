@@ -15,7 +15,7 @@ resource "aws_db_instance" "rds" {
   vpc_security_group_ids = [aws_security_group.allow_all.id]
   depends_on = [ aws_db_subnet_group.sub-grp ]
   publicly_accessible = true
-  backup_retention_period = 7
+  backup_retention_period = 0
 
   
   tags = {
