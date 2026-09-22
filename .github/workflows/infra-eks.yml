@@ -7,7 +7,7 @@ env:
   AWS_REGION: us-west-2
   TF_VERSION: "1.12.2"
   TF_WORKING_DIR: EKS-Terraform
-  BUCKET_NAME : k8demowithveeraecommerce
+  BUCKET_NAME : devncloudtechdevops1111111111
 
 jobs:
 

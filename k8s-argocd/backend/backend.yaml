@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/Jagadeesh0606/kubernetes-veeraops-ecommerce-microservices-app.git
+    repoURL: https://github.com/Alirazaops/kubernetes-veeraops-ecommerce-microservices-app.git
     path: backend
     targetRevision: main
   destination:
